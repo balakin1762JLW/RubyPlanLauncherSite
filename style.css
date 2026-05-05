@@ -14,18 +14,22 @@ body{
 
 p {
     color: #FFFFFF; 
-    line-height: 1.6;
-    font-size: 19px;
+  
+    font-size: 15px;
 }
 .pX {
     color: #FFFFFF; 
-    line-height: 1.6;
-    font-size: 25px;
+     
+    font-size: 35px;
      text-decoration: underline;
 }
 .pS {
     color: #FFFFFF; 
-    line-height: 1.6;
-    font-size: 20px;
+   
+    font-size: 17px;
      text-decoration: underline;
+}
+hr {
+  border: 0;
+  border-top: 1px dashed #8c8b8b; /* Or 'dotted' */
 }
