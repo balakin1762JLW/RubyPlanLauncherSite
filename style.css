@@ -1,0 +1,25 @@
+body{
+  font-family: "Arial";
+   background-image: url('res/Stone.png');
+  background-size: 50px 50px;
+    image-rendering: pixelated;
+      background-color: rgba(0, 0, 0, 0.6); /* Цвет затемнения */
+  background-blend-mode: darken;
+}
+
+.conteiner{
+	background-image: url('res/Dirt.png');
+	border-radius: 2px;
+}
+
+p {
+    color: #FFFFFF; 
+    line-height: 1.6;
+    font-size: 19px;
+}
+.pX {
+    color: #FFFFFF; 
+    line-height: 1.6;
+    font-size: 25px;
+     text-decoration: underline;
+}
